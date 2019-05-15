@@ -1,0 +1,128 @@
+.header{
+ background-color: white;
+ border-bottom: 2px solid #cccccc;
+ padding: 2px;
+ width: 100%;
+ overflow: auto;
+  clear: both;
+  
+}
+
+#logo{
+  background-color: #4aaaa5;
+  float:left;
+  padding:2px 5px 2px 5px;
+  font-weight: bold;
+  color:white;
+  width:45 %;
+  margin-left:25%;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+  
+}
+#menu{
+color: #777777;
+float:right;
+width: 45%;
+
+
+}
+#menu nav{
+  float: left;
+  width: 33%;
+}
+#menu a{
+  padding: 5px;
+  border-right:1px solid #666666 ;
+}
+.body{
+  background-color: bisque;
+  width: 100%;
+  overflow: auto;
+}
+#content{
+  background-color: #dddddd;
+    width: 960px;
+    margin: 1% 25% 1% 25%;
+    position: relative;
+    padding: 2px;    
+    overflow: auto;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+.footer{
+    background-color: #666666;
+    padding: 20px;
+    clear: both;
+   border-top: 4px solid #4aaaa5;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 12px;
+   text-align: center;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+h3{
+  text-align: left;
+  padding:1%;
+  border-bottom: 2px solid #666666;
+  margin: 2%;
+}
+
+#content-img{
+  border-radius: 50%;
+  float: left;
+  width: 15%;
+  padding: 1px;
+  height: auto;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+#content-p{
+  text-align: justify;
+  float: left;
+  width: 80%;
+}
+#content table{
+  margin: 2%;
+}
+.image-left{
+  float: left;
+  width: 50%;
+}
+.pic{
+  float: left;
+  position: relative;
+  margin: 2%;
+}
+#txt{
+  float: left;
+  position:absolute;
+  margin-top: 150px;
+  background-color: burlywood;
+  width: 300px;
+  height: 30px;
+  font-size: 14px;
+  text-align: center;
+  margin:1%;
+  
+}
+.image-right{
+  float: left;
+  width: 50%;
+}
+.pic2{
+  float: left;
+  position: relative;
+  margin: 2%;
+}
+#title{
+ float: left;
+  position:absolute;
+  margin-top: 150px;
+  background-color: burlywood;
+ width: 300px;
+  height: 30px;
+  font-size: 14px;
+  text-align: center;
+  margin: 1%;
+   
+}
